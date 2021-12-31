@@ -11,4 +11,5 @@ The cloud dashboard also allows users to remotely change the desired setpoint an
 
 ### Web dashboard + OLED display:
 
-![Screenshot](images/ubidots-dashboard-controls.png)![Screenshot](images/ubidots-dashboard-display.png)![Screenshot](images/oled-display.jpg)
+![Screenshot](images/ubidots-dashboard-controls.png)![Screenshot](images/ubidots-dashboard-display.png)
+![Screenshot](images/oled-display.jpg)
