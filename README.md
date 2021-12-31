@@ -5,10 +5,10 @@ Depending on the current conditions, a fan or heater will be switched on to main
 Temperature/setpoint data is displayed locally on an OLED dispay as well as being sent to a cloud-based dashboard (Ubidots) over MQTT where it can be monitored remotely.
 The cloud dashboard also allows users to remotely change the desired setpoint and switch the fan or heater on/off manually. 
 
-## System block diagram:
+### System block diagram:
 
 ![Screenshot](images/block-diagram.png)
 
-## Web dashboard + OLED display:
+### Web dashboard + OLED display:
 
 ![Screenshot](images/ubidots-dashboard.png)     ![Screenshot](images/oled-display.jpg)
